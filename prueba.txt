@@ -1,0 +1,4 @@
+1- Esta es la primera línea del archivo
+2- Esta será la segunda línea del archivito
+3- Esta será la tercera línea del archivo
+4- Esta es la línea 4
